@@ -1,0 +1,9 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "c:\\Users\\daniel\\AppData\\Roaming\\jupyter\\kernels\\ir\\kernel.json",
+            "type": "jupyterKernelspec"
+        }
+    ],
+    "editor.guides.bracketPairs": "active"
+}
